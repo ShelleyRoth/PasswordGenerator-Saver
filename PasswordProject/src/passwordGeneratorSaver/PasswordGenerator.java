@@ -1,4 +1,4 @@
-package forLoops;
+package passwordGeneratorSaver;
 
 import java.io.File;
 import java.io.FileNotFoundException;
